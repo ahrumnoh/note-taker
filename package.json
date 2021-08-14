@@ -20,5 +20,9 @@
   "homepage": "https://github.com/ahrumnoh/note-taker#readme",
   "dependencies": {
     "inquirer": "^8.1.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
