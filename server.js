@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.static('public'));
 
 app.get('/api/notes', (req, res) => {
-    res.json(allNotes.slice(1));
+    // res.json(allNotes.slice(1));
 });
 
 app.get('/', (req, res) => {
@@ -73,5 +73,5 @@ app.delete('/api/notes/:id', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`API server now on port ${PORT}!`);
+    console.log(`App listening at http://localhost:${PORT} 🚀`);
 });
