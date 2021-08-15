@@ -13,15 +13,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 ## A finalized sample for README FILE
-![README FILE](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/2021-08-01%20(2).png?raw=true)
-![README FILE](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/2021-08-01%20(2).png?raw=true)
+![README FILE](https://github.com/ahrumnoh/note-taker/blob/main/public/assets/images/2021-08-15%20(10).png?raw=true)
+![README FILE](https://github.com/ahrumnoh/note-taker/blob/main/public/assets/images/2021-08-15%20(11).png?raw=true)
 
 
 
 ## 🚩Let's execute Note-Taker APP HERE:
- * Click the picture below 👇👇👇
-[![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://notetakerahrumnoh.herokuapp.com/)
-
+* Click the link below 👇👇👇
 * Deployed URL: https://notetakerahrumnoh.herokuapp.com/
 
 
