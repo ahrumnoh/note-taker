@@ -20,7 +20,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## 🚩Let's execute Note-Taker APP HERE:
 * Click the link below 👇👇👇
-* ![]
 * Deployed URL: https://notetakerahrumnoh.herokuapp.com/
 
 
